@@ -1,5 +1,11 @@
 <div align="center">
 
+![banner](https://github.com/kashishyadav08/kashishyadav08/blob/main/banner.jpeg)
+
+</div>
+
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Kashish+%F0%9F%91%8B;Python+%7C+FastAPI+Developer+%F0%9F%9A%80;Data+%26+Analytics+Enthusiast+%F0%9F%93%8A;Learning+%7C+Building+%7C+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
 </div>
@@ -13,7 +19,7 @@ kashish = {
     "name": "Kashish Yadav",
     "location": "India 🇮🇳",
     "role": "Python / FastAPI Developer",
-    "skills": ["Python", "FastAPI", "HTML", "CSS", "JavaScript", "MySQL", "Power BI", "Excel"],
+    "skills": ["Python", "FastAPI", "HTML", "CSS","JavaScript", "MySQL", "Power BI", "Excel"],
     "learning": "Backend development & data analytics every single day 🚀",
     "contact": "yadavkashish146@gmail.com"
 }
@@ -25,6 +31,10 @@ kashish = {
 - 📊 Enjoy turning raw data into insights with **Power BI & Excel**
 - 💬 Ask me about **Python, FastAPI, MySQL, JavaScript**
 - 📫 Reach me at **yadavkashish146@gmail.com**
+
+<img align="center" src="https://github.com/kashishyadav08/kashishyadav08/blob/main/Programmer Coding GIF.gif" width="280" alt="Dance GIF"/>
+<br clear="right"/>
+
 
 ---
 
@@ -94,6 +104,7 @@ kashish = {
 ---
 
 <div align="center">
+<img src="https://github.com/kashishyadav08/kashishyadav08/blob/main/Dance%20Girl%20Sticker.gif" width="120" alt="Dance GIF"/>
 
 ### "First, solve the problem. Then, write the code." 💡
 

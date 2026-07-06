@@ -32,8 +32,7 @@ kashish = {
 - 💬 Ask me about **Python, FastAPI, MySQL, JavaScript**
 - 📫 Reach me at **yadavkashish146@gmail.com**
 
-<img align="center" src="https://github.com/kashishyadav08/kashishyadav08/blob/main/Programmer Coding GIF.gif" width="280" alt="Dance GIF"/>
-<br clear="right"/>
+
 
 
 ---
